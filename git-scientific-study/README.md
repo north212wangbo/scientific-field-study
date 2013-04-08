@@ -1,1 +1,1 @@
-First test
+This project is developed for enhancing scientific field study. It is composed of two parts: a web application and an iPhone application. Currently I'm working on the web application.
